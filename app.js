@@ -33,4 +33,8 @@ setInterval(()=>{
 
     time.textContent = hours + ":"+ minutes + ":" + seconds + " " + day_night;
     
-});
+
+    
+
+
+    // to learn merge in git hub
